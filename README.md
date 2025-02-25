@@ -15,6 +15,7 @@ Improves Efficiency – Businesses use software to automate tasks, saving time a
 Enables Innovation – Technology companies develop new ideas, such as AI and cloud computing, through software engineering.
 Supports Security – Good software engineering practices help protect data from hackers.
 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 1. **The Birth of Software Engineering (1968)**
@@ -25,6 +26,7 @@ During the 1970s, developers introduced structured programming, which focused on
 
 3. **The Emergence of Agile Development (2001)**
 In 2001, the Agile Manifesto was introduced, changing how software was built. Agile development focuses on flexibility, teamwork, and delivering small, working software updates quickly. This approach replaced rigid methods like the Waterfall model and is widely used today.
+
 
 List and briefly explain the phases of the Software Development Life Cycle.
  1. **Planning**
@@ -47,6 +49,7 @@ The finished software is released to users. It may be installed on computers, up
 
 7. **Maintenance**
 After deployment, developers provide updates, fix bugs, and improve the software based on user feedback.
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
@@ -99,6 +102,7 @@ Plans the project timeline, tasks, and resources.
 Communicates with stakeholders to understand project goals.
 Ensures the team meets deadlines and stays within budget.
 Solves problems and keeps the project on track.
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
@@ -181,6 +185,7 @@ Follow secure coding practices (e.g., input validation, encryption).
 Regularly update software to fix security flaws.
 Use penetration testing to find vulnerabilities before attackers do.
 
+
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 1. **Unit Testing**
@@ -215,6 +220,7 @@ Ensures it meets user expectations and business needs.
 Reduces the chances of customer complaints.
 Example: A client testing a new e-commerce website to confirm if all features work as expected before launch.
 
+
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
@@ -237,6 +243,7 @@ Useful for different applications like coding, writing, or problem-solving.
 4. **Maximizes AI Capabilities**
 A good prompt can make AI provide detailed and structured information.
 Helps unlock advanced AI functions, such as summarization, creative writing, and automation.
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
