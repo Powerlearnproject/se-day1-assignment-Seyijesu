@@ -47,22 +47,31 @@ The finished software is released to users. It may be installed on computers, up
 After deployment, developers provide updates, fix bugs, and improve the software based on user feedback.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 **Waterfall Methodology**
+
 **Characteristics:**
+
 **Linear and Sequential:** The project progresses through distinct phases (Requirements, Design, Implementation, Verification, Maintenance) in a fixed order.
+
 **Predictive Approach:** Requires detailed planning upfront, with minimal changes allowed once the process begins.
+
 **Documentation-Heavy:** Emphasizes thorough documentation at each stage.
+
 **Less Flexible:** Changes are difficult and costly to implement after the initial plan is set.
 
 **Strengths:**
 Clear structure and defined milestones.
 Easy to understand and manage for teams unfamiliar with complex processes.
 Suitable for projects with well-defined requirements that are unlikely to change.
+
 **Weaknesses:**
 Lack of flexibility can lead to issues if requirements change mid-project.
 Testing occurs late in the process, which can delay the discovery of defects.
 Limited collaboration between team members during specific phases.
+
 **Appropriate Scenario:**
+
 **Building a Bridge:** A construction project where the design, materials, and regulations are well-established and unlikely to change. The sequential nature of the Waterfall methodology ensures that each phase is completed before moving on to the next, ensuring safety and compliance.
 
 
